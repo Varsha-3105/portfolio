@@ -1,10 +1,10 @@
-# my_portfolio
+# My Flutter Portfolio
 
-A new Flutter project.
+Welcome to my portfolio built using Flutter and hosted on GitHub Pages!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter web application.
 
 A few resources to get you started if this is your first Flutter project:
 
